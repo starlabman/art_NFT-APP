@@ -24,7 +24,7 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   networks: {
     ropsten: {
       url: "https://ropsten.infura.io/v3/60143da47ea6407ca2b0ba8118c80a33",
-      accounts: ['0x034f0cd90d07527b9227d295ec83a8a223915782535d4d7b72f7a922f0cfe6d6']
+      accounts: ['*****']
     }
   }
 };
