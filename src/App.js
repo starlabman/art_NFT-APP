@@ -14,6 +14,8 @@ import img9 from './img/9.png';
 import img10 from './img/10.png';
 
 const GGaddress = "0x3606bab2525e439Fd77625230cf03601f0E0Ae9A";
+// const GGaddress = "0x9486491583F0ebf28239b3013f7c35b7b50E65f4";
+// const GGaddress = "0x47030cf5B7C98Ea502757c79594b7A3A7CbE8256";
 
 function App() {
 
